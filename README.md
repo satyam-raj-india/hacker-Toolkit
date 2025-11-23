@@ -1,6 +1,13 @@
 
 # AnON Multi Feature App
+*UPDATED* 22 NOVEMBER 2025 ADDED 7 MORE FEATURES
 
+SMS BOMB
+CALL BOMB
+VEHICLE INFO
+NUMBER 8NFO
+MASS BOMB
+ETC
 **Beta Version Features**
 - YT views increaser (REAL)
 - Insta views increaser (REAL)
